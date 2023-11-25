@@ -1,0 +1,12 @@
+[submodule "fr"]
+	path = fr
+	url = git@github.com:php/doc-fr.git
+[submodule "base"]
+	path = base
+	url = https://github.com/php/doc-base.git
+[submodule "en"]
+	path = en
+	url = https://github.com/php/doc-en.git
+[submodule "phd"]
+	path = phd
+	url = git@github.com:BatMaxou/phd.git
